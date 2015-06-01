@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-06-01 10:49:36
+categories: blog
+---
+Welcome to my site!!
+
+It's time to move to Github Pages. Now with no old posts from my old blogs.
+Maybe in the future I will import them.
+
+I will try to talk about my open source projects an other stuff like GNU/Linux, programming, 3D Printing, etc.
